@@ -10,7 +10,15 @@
     </div>-->
 	
 	<header>
-		
+		<p class=alinea>Le système nerveux central, formé de l'encéphale et de la moelle épinière,
+		est formé de la substance blanche et de la substance grise. La substance grise correspond
+		en réalité aux noyaux des neurones, et la substance blanche à leurs axones. Dans l'encéphale,
+		la substance grise a pour particularité d'être majoritairement répartie en périphérie,
+		sur l'écorce du cerveau (d'où le nom de cortex cérébral), tandis que la substance blanche 
+		est localisée de façon plus profonde. Toutefois, on retrouve également des noyaux de 
+		substance grise à l'intérieur du cerveau. Parmi ceux-ci, on trouve les ganglions de la base.</p>
+		<h2>Neuroanatomie</h2>
+		<p class=alinea></p>
 	</header>
 	
 	<body>
