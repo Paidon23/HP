@@ -70,6 +70,10 @@
 	Journal of Neuropathology and Experimental Neurology, July 1990</p></br>
 	<p class="ref">[29]</p> <p class="refb"><i>The Basal Ganglia and Motor Control</i>, 
 	Henk J. Groenewegen, Neural Plast. 2003; 10(1-2): 107–120</p></br>
+	<p class="ref">[30]</p> <p class="refb"><i>Neuroscience, Third Edition</i>, 
+	Dale Purves, George J. Augustine, David Fitzpatrick, William C. Hall, Anthony-Samuel LaMantia,
+	James O. McNamara, S. Mark Williams, Sinauer Associates, Inc., Publishers Sunderland, 
+	Massachusetts U.S.A., 2004</p></br>
 	</body>
 	
 	<?php include "pied.php";?> 

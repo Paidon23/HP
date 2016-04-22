@@ -16,9 +16,27 @@
 		la substance grise a pour particularité d'être majoritairement répartie en périphérie,
 		sur l'écorce du cerveau (d'où le nom de cortex cérébral), tandis que la substance blanche 
 		est localisée de façon plus profonde. Toutefois, on retrouve également des noyaux de 
-		substance grise à l'intérieur du cerveau. Parmi ceux-ci, on trouve les ganglions de la base.</p>
-		<h2>Neuroanatomie</h2>
-		<p class=alinea></p>
+		substance grise à l'intérieur du cerveau. Parmi ceux-ci, on trouve les ganglions de la base.
+		<sup><a href="references.php">[30]</a></sup></p>
+		<h2>Une brève histoire des ganglions de la base</h2>
+		<p class=alinea>Les ganglions de la base désignent un ensemble de structures profondes du
+		cerveau. Bien que des ganglions centraux dans le cerveau soit mentionnés par Claude Galien (129-201), 
+		il faut attendre André Vésale (1514-1564) pour en avoir une délimitation plus précise, sans clairement
+		identifier chacune des structures les composant. Thomas Willis (1621-1675) décrira un <i>corpus striatum</i>, 
+		de par son aspect strié lors de son observation.
+		C'est au médecin et anatomiste allemand Karl Friedrich Burdach que l'on doit la description
+		la plus importante des ganglions de la base, en se basant sur des travaux précédemment menés
+		entre les XVIe et XIXe siècles (notamment Willis, Vieussens, Vicq d'Azyr, Gall ou encore
+		Malacarne). Il décrira ainsi le noyau caudé, le putamen, le globus pallidus, le clastrum et
+		la substance noire. Il faudra attendre Jules Bernard Luys (1828-1897) pour rajouter le noyau
+		subthalamique à la liste.
+		
+		<h2>Découpage des ganglions de la base</h2>
+		<ul><li>Le <b>noyau caudé</b> ;
+		<li>Le <b>putamen</b>, séparé du précédent par des fibres appelées capsules internes ;</li>
+		<li>Le <b>globus pallidus</b>, séparé en deux parties, interne et externe ;</li>
+		<li></ul>
+		<li>
 	</header>
 	
 	<body>
