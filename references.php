@@ -74,6 +74,8 @@
 	Dale Purves, George J. Augustine, David Fitzpatrick, William C. Hall, Anthony-Samuel LaMantia,
 	James O. McNamara, S. Mark Williams, Sinauer Associates, Inc., Publishers Sunderland, 
 	Massachusetts U.S.A., 2004</p></br>
+	<p class="ref">[31]</p> <p class="refb"><i>The History of The Basal Ganglia: The Contribution of Karl Friedrich Burdach</i>, 
+	André Parent, Neuroscience & Medicine, 2012, 3, 374-379</p></br>
 	</body>
 	
 	<?php include "pied.php";?> 
