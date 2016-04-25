@@ -10,29 +10,52 @@
     </div>-->
 	
 	<header>
+		<p class=intro>Les maladies de Parkinson et de Huntington sont toutes deux liées à des déficiences
+		des ganglions de la base. Mais quelles sont ces structures et à quoi servent-elles ?</p>
 		<table><tr><td><p class=alinea>Le système nerveux central, formé de l'encéphale et de la moelle épinière,
-		est formé de la substance blanche et de la substance grise. La substance grise correspond
-		en réalité aux noyaux des neurones, et la substance blanche à leurs axones. Dans l'encéphale,
+		est divisible en deux types de régions, tirant leur nom de leur constitué de substance blanche et de substance grise. La substance grise correspond
+		aux noyaux des neurones, et la substance blanche à leurs axones. Dans l'encéphale,
 		la substance grise a pour particularité d'être majoritairement répartie en périphérie,
-		sur l'écorce du cerveau (d'où le nom de cortex cérébral), tandis que la substance blanche 
-		est localisée de façon plus profonde. Toutefois, on retrouve également des noyaux de 
-		substance grise à l'intérieur du cerveau. Parmi ceux-ci, on trouve les ganglions de la base.
-		<sup><a href="references.php">[30]</a></sup></p>
+		sur l'écorce du cerveau (d'où le nom de cortex cérébral). A l'inverse, la substance blanche 
+		est localisée de façon plus centrale. On retrouve cependant des noyaux de 
+		substance grise en profondeur du cerveau. Parmi ceux-ci, en font partie les ganglions de la base<sup><a href="references.php#30">[30]</a></sup>.</p>
 		<h2>Une brève histoire des ganglions de la base</h2>
-		<p class=alinea>Bien que des ganglions centraux dans le cerveau soit mentionnés par Claude Galien (129-201), 
-		il faut attendre André Vésale (1514-1564) pour avoir une délimitation plus précise des ganglions
-		de la base, sans clairement	identifier chacune des structures les composant. 
-		Thomas Willis (1621-1675) décrira un <i>corpus striatum</i>, 
-		de par son aspect strié lors de son observation.
-		C'est au médecin et anatomiste allemand Karl Friedrich Burdach que l'on doit la description
-		la plus importante des ganglions de la base, en se basant sur des travaux précédemment menés
-		entre les XVIe et XIXe siècles (notamment Willis, Vieussens, Vicq d'Azyr, Gall ou encore
-		Malacarne). Il décrira ainsi le noyau caudé, le putamen, le globus pallidus, le clastrum et
-		la substance noire. Il faudra attendre Jules Bernard Luys (1828-1897) pour rajouter le noyau
-		subthalamique à la liste.
+		<p class=alinea>Bien que des noyaux gris centraux dans le cerveau soient mentionnés par Claude Galien (129-201), 
+		il faut attendre André Vésale (1514-1564) pour en avoir une délimitation plus précise. Il
+		n'arrivera toutefois pas à clairement identifier toutes les structures. 
+		Thomas Willis (1621-1675) fera un pas en avant en décrivant le <i>corpus striatum</i>, 
+		qu'il baptise en raison de son aspect strié lors de son observation. A l'époque,
+		le terme désigne l'ensemble des noyaux sous-corticaux. Willis pense
+		qu'ils ont un rôle dans les mouvements automatiques. 
+		Félix Vicq d'Azyr (1748-1794) différencie le thalamus des autres noyaux gris centraux.
+		C'est toutefois au médecin et anatomiste allemand Karl Friedrich Burdach (1776-1847) que l'on doit la description
+		anatomique des autres noyaux, en se basant sur les travaux précédemment menés
+		entre les XVIe et XIXe siècles (notamment Vieussens, Gall ou encore
+		Malacarne en plus de Willis et Vicq d'Azyr). Notamment, c'est le premier à diviser le striatum en deux structures, le noyau caudé
+		et le putamen. Il décrira également un ensemble de structures sous-corticales dont font partie
+		le globus pallidus, le clastrum et la substance noire. Il faudra attendre le psychiatre Jules Bernard Luys (1828-1897) 
+		pour rajouter le noyau subthalamique à la liste<sup><a href="references.php#31">[31]</a></sup>.
+		<p class=alinea>Malgré ces descriptions anatomiques précises, le rôle de ces noyaux
+		reste alors méconnu. Burdach pense qu'ils sont le siège de la volonté,
+		de la conscience, et de la perception sensorielle<sup><a href="references.php#31">[31]</a></sup>.
+		Au cours du XIXe siècle, le rôle exact des corps striés fait débat. David Ferrier (1843-1928),
+		en les stimulant, réussit à provoquer des réponses musculaires. Cette stimulation
+		devient toutefois inefficace si le cortex a été enlevé<sup><a href="references.php#34">[34]</a></sup>.
+		En 1868, le neurologue Hughlings Jackson remarque que les chorées sont dûes à des irrégularités
+		de l'activité du striatum<sup><a href="references.php#32">[32]</a></sup>.
+		En 1894, Edouard Brissaud associe les tremblements parkinsonniens avec des lésions
+		de la substance noire. En 1911, Cécile Vogt publie un article dans lequel elle décrit un cas d'athétose
+		en relation avec une atrophie du putamen et du striatum<sup><a href="references.php#34">[34]</a></sup>. 
+		Peu à peu, tout au long du XXè siècle le rôle moteur de ces noyaux centraux
+		s'affirme de plus en plus.</p>
+		<p class=alinea>Jusqu'en 1941, le terme de « corpus striatum » désigne l'ensemble des noyaux sous-corticaux,
+		Cécile et Oskar Vogt proposent alors une nouvelle terminologie : le noyau caudé, le putamen et le noyau accumbens 
+		sont regroupés sous le nom de <b>striatum</b>, tandis que le globus pallidus devient le <b>pallidum</b>. Les
+		progrès en termes d'imagerie et de techniques histochimiques ont permis, durant la seconde moitié du XXè siècle, 
+		on permis d'aboutir au regroupement des structures	faisant partie des mêmes réseaux et ayant des fonctions similaires 
+		sous le terme actuel de système des <b>ganglions de la base</b>.<sup><a href="references.php#35">[35]</a></sup>.
 		</td><td align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/l1hv0SbGXf0" frameborder="0" allowfullscreen></iframe>
 		<center><p class=legend>Figure 1 - Les ganglions de la base en deux minutes (n'oubliez pas d'activer les sous-titres).</p></center></td></tr></table>
-		
 		
 		<table class=in><tr><td valign="center"><img src="images/GanglionsDeLaBase.png" alt="Ganglions de la base" width=450 height=318>
 		<center><p class=legend>Figure 2 - Les différentes structures composant les ganglions de la base.
@@ -45,7 +68,7 @@
 		<li class=normal>Le <b>noyau subthalamique</b> ;</li>
 		<li class=normal>La <b>substance noire</b>, ou substantia nigra, divisée en pars compacta et en pars reticulata.</ul>
 		<p class=alinea>Toutes ces structures sont paires (une pour chaque hémisphère) dans le cerveau. Selon les sources,
-		on rajoute parfois à cette liste le claustrum, ainsi que le striatum ventral, composé du <b>noyau accumbens</b>
+		on rajoute parfois à cette liste le claustrum, le noyau pédonculopontin, ainsi que le striatum ventral, composé du <b>noyau accumbens</b>
 		et du bulbe olfactif. L'ensemble formé du noyau caudé et du putamen est désigné sous le nom de striatum
 		(ou corps strié), et parfois
 		avec la précision « striatum dorsal » si l'on prend en compte sa partie ventrale. D'un autre côté, on trouve
@@ -54,7 +77,7 @@
 		<h2>Rôle moteur des ganglions de la base</h2>
 		<p class=alinea>Certains rôles des ganglions de la base restent méconnus. Toutefois, leur intervention dans l'activité motrice
 		volontaire est certaine, notamment car leur dégradation est liée à des pathologies caractérisées
-		par des dysfonctions du système moteur (comme Parkinson ou Huntington). 
+		par des dysfonctionnements du système moteur (comme Parkinson ou Huntington). 
 		A la surface du cerveau, l'information motrice volontaire est déclenchée par le cortex moteur primaire, qui,
 		via la voie pyramidale, transmet l'information aux muscles. En même temps, le cortex moteur envoie également
 		des informations en direction des ganglions de la base, plus particulièrement au niveau du striatum.
