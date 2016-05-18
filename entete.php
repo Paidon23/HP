@@ -8,7 +8,7 @@
 		<title><?php echo($titrepage)?></title>
 		<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 		<div id="outer" height="200"> 
-		<img src='title.png' alt="<?php echo($titrepage)?>" height="200"/>		
+		<img class=top src='title.png' alt="<?php echo($titrepage)?>" height="200"/>		
 		<hx>Parkinson et Huntington</hx>
 		<hy>Comparaison de deux pathologies</hy>
 

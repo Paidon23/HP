@@ -25,25 +25,42 @@
 	<tr><th bgcolor=#dbff6d><titlep>Parkinson</titlep></th><th bgcolor=#6f9300><titleh>Huntington</titleh></th></tr>
 	<tr><td valign="top">
 
-<p class=alinea>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat, lacus ullamcorper consequat egestas, dolor lorem tempor augue, eu sagittis mauris ante quis turpis. Sed vulputate nunc quis malesuada tincidunt. Vivamus gravida neque nisl, vitae finibus tortor commodo molestie. Nullam id lacinia leo. Ut eget est id erat dapibus faucibus et a diam. Ut sed blandit mauris, venenatis efficitur quam. Suspendisse ultricies rutrum nibh quis consectetur. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
-
-<p class=alinea>Cras erat augue, luctus vel sem id, elementum viverra quam. Sed congue rhoncus quam a convallis. Fusce elementum iaculis magna, luctus egestas lorem iaculis viverra. Suspendisse potenti. Integer ut ante quis massa cursus consectetur. Aliquam eget tempor neque, eu fermentum metus. Integer sit amet neque at felis egestas mattis. Fusce id pretium sem. Phasellus facilisis leo eu mollis congue. Vivamus eu lectus id libero dictum ultricies. Nullam rutrum quis justo nec ullamcorper. Duis tristique, arcu vel ornare fermentum, neque lorem imperdiet lorem, ut tristique lectus neque ut mi. Nunc a imperdiet diam. In sodales pellentesque rutrum. Praesent volutpat eleifend dolor.</p>
-
-<p class=alinea>Sed lacinia, ante non porta mattis, elit leo semper arcu, sed sollicitudin quam urna ut neque. Sed tempor porta dapibus. Integer risus enim, mollis eu orci quis, faucibus congue risus. Cras eu sodales orci. Donec ultricies convallis ipsum, vitae faucibus sapien ultricies sed. Duis vitae odio ut ipsum cursus venenatis sit amet eget felis. Donec finibus, augue vel sagittis suscipit, elit tellus porttitor elit, non aliquet est quam vel dui. Nam iaculis convallis leo a rhoncus.</p>
-
-<p class=alinea>Proin in tincidunt nisl, non rutrum velit. Cras convallis rhoncus risus sit amet fermentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque mollis, augue varius aliquet euismod, ex orci dignissim elit, venenatis euismod dui urna id tellus. Proin a nunc eu velit faucibus venenatis venenatis sit amet ipsum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut molestie posuere interdum. Proin tempus tincidunt pellentesque. Phasellus ut arcu a urna convallis varius vel eget justo. Pellentesque id dui sem. Fusce blandit risus eget mauris vehicula tincidunt. Vestibulum sagittis ligula nec arcu molestie feugiat. Maecenas sodales turpis et felis volutpat lobortis. Cras lacinia tortor vitae varius condimentum. Donec odio tortor, dictum eget mattis ac, rutrum ac ex. Maecenas quis velit finibus, auctor arcu non, imperdiet metus.</p>
-
-<p class=alinea>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed sodales neque dignissim tortor vulputate, vitae maximus justo malesuada. Nullam dictum ipsum ipsum, ac pellentesque dui congue sed. 
-Donec varius eros tincidunt, consequat lectus vel, faucibus tortor. Quisque faucibus condimentum quam euismod bibendum. Aliquam bibendum elit id purus sollicitudin congue. 
-Quisque vitae nisi vel nulla mattis rutrum. Morbi dictum elit nisi, ac gravida lacus euismod volutpat. Vivamus fermentum orci in orci gravida pharetra. 
-Vivamus finibus dolor vitae purus posuere egestas. Quisque accumsan interdum sem quis maximus.</p> </td><td>	
-    <p class=alinea>La maladie de Huntington étant une maladie orpheline, il est difficile d'obtenir des chiffres précis quant à 
-	sa prévalence. On estime que la maladie de Huntington atteint en moyenne 5 à 7 personnes pour 100 000 habitants dans la population blanche<sup><a href="references.php">[5]</a></sup>. Toutefois,
+	<p class=alinea>La maladie de Parkinson touche en France entre 100 000 et 150 000 personnes. 
+	Chaque année entre 8 000 et 10 000 nouveaux individus sont recensés. 
+	Il y a 1% des sujets de plus de 60 ans qui sont touchés à travers le monde avec un 
+	pourcentage un peu plus élevé pour les hommes. 
+	Soit, dans la population générale on parle de 6 à 8 cas pour 1000 entre 65 et 69 ans 
+	et de 26 à 35 cas pour 1000 entre 85 et 89 ans.</p>
+	<p class=alinea>On retrouve une prévalence (nombre de nouveaux cas par an) qui est plus élevée 
+	en Europe ou en Amérique du nord qu'en Afrique. 
+	De manière générale, les pays les plus industrialisés ont une prévalence 
+	de la maladie de Parkinson plus élevée. Néanmoins, cela peut être dû au peu d'études 
+	réalisées dans les pays en développement.
+	Les premiers symptômes apparaissent entre 58 et 62 ans et 80 % des cas sont 
+	diagnostiqués entre 40 et 75 ans. La prévalence de la maladie augmente
+	avec l'age de manière exponentielle.</p> 
+	<div class="container">
+	<div class="mapcontainer">
+    <div class="map">
+        <span>Carte interactive de la répartition de Parkinson</span>
+    </div>
+    <div class="areaLegend">
+        <span>Légende de la carte</span>
+    </div>
+    </div>
+	</div>
+	<center><script type="text/javascript" src="epidemio_parkinson.js"></script></center>
+	<p class=legend>Figure 1 - Prévalence de la maladie de Parkinson dans certains pays du monde (pour 100 000 hab.)</p></br>
+	</td><td>	
+    <p class=alinea>La maladie de Huntington étant une maladie orpheline, 
+	il est difficile d'obtenir des chiffres précis quant à 
+	sa prévalence. On estime que la maladie de Huntington atteint en moyenne 
+	5 à 7 personnes pour 100 000 habitants dans la population blanche<sup><a href="references.php">[5]</a></sup>. Toutefois,
 	s'agissant d'une <a href="genetique.php">maladie génétique</a>, on observe des différences importantes de prévalence en fonction des régions du globe.
 	Ainsi, elle est très faible chez les populations asiatiques (au Japon, elle est de 0,5 pour 100 000 habitants<sup><a href="references.php">[15]</a></sup>), afro-américaines 
 	(notamment en Afrique du Sud, où elle est, pour la population noire, de 0,01 pour 100 000 hab.<sup><a href="references.php">[17]</a></sup>), et en Finlande (0,8 pour 100 000 hab.<sup><a href="references.php">[15]</a></sup>).</p></br>
 	<div class="container">
-	<div class="mapcontainer">
+	<div class="mapcontainer2">
     <div class="map">
         <span>Carte interactive de la répartition de Huntington</span>
     </div>
@@ -52,8 +69,8 @@ Vivamus finibus dolor vitae purus posuere egestas. Quisque accumsan interdum sem
     </div>
     </div>
 	</div>
-	<center><script type="text/javascript" src="epidemio.js"></script></center>
-	<p class=legend>Figure 1 - Prévalence de la maladie de Huntington dans certains pays du monde (pour 100 000 hab.)</p></br></br>
+	<center><script type="text/javascript" src="epidemio_huntington.js"></script></center>
+	<p class=legend>Figure 2 - Prévalence de la maladie de Huntington dans certains pays du monde (pour 100 000 hab.)</p></br></br>
 	<table class=in><tr><td valign="top">
 	<p class=alinea>A l'opposé, les habitants du village de Barranquitas, au Vénézuela, atteignent une prévalence
 	de 700 personnes sur 100 000. Au début du XIXe siècle, une femme aurait en effet été atteinte de la maladie, son arbre généalogique s'étendant

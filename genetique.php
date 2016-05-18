@@ -16,7 +16,21 @@
 	<body>
 	<table align="center">
 	<tr><th bgcolor=#dbff6d><titlep>Parkinson</titlep></th><th bgcolor=#6f9300><titleh>Huntington</titleh></th></tr>
-	<tr><td valign="top"><p class="alinea">La maladie de Parkinson n'est pas une maladie génétique. Voilà voilà.</td>
+	<tr><td valign="top"><p class="alinea">Gowers a émis les premières hypothèses comme quoi la maladie de Parkinson serait une maladie génétique. 
+	Selon lui, 15% des patients atteints avaient des antécédents familiaux. On peut distinguer une première opposition entre la maladie de Parkinson 
+	idiopathique (dont on ne connaît pas vraiment la cause) et l'accumulation des connaissances au niveau génétique et moléculaire qui pourrait laisser 
+	penser qu'il n'existe pas une mais plusieurs maladies de Parkinson. </p><p class="alinea">Des études ont été réalisées sur la fréquence de la maladie de Parkinson 
+	au sein d'une même famille. Elles ont montré que pour 6 à 21% des sujets atteints, au moins un autre membre de leur famille est atteint. 
+	Quant au cas clinique, c'est environ 33% des patients qui ont un parent atteint. Il ne faut cependant pas omettre les risques liés à l'environnement 
+	(la pollution, les pesticides). D'autres études ont été menées dans des familles et ont pu mettre en évidence la mutation du gène codant l’alphasynucléine 
+	(régule la libération de dopamine) sur le chomosome 4 (cf. figure 1). Également, on a pu observer que dans 10% des formes familiales,
+	il y avait une mutation de gène codant pour la proteine nommée « parkine ». Elle constitue actuellement une piste de recherche pour la maladie de Parkinson.
+	De nombreux gènes seraient impliqués dans la maladie de Parkinson (cf. figure 1) mais elle n'est pas considérée comme étant une maladie génétique. 
+	Depuis 2012, elle est considérée comme étant une maladie professionnelle.</p>
+	<table class="in" bgcolor=#dbff6d><tr><td width="50%" height="15">Locus</td><td width="16%">Gène</td>
+	<td width="16%">Transmission</td><td width="16%">Âge moyen de début</td><td>Phénotype</td></tr>
+	<tr><td colspan=5>Formes autosomiques dominantes</td></tr><tr><td height="15">Pénétrance</td><td>Nulle</td><td>Interm.</td><td>Complète</td><td>Caca</td></tr></table>
+</td>
 	<td valign="top"><table class="in"><tr><td><p class="alinea">Contrairement à la maladie de Parkinson, la source de la maladie de Huntington est parfaitement connue, 
 	et se trouve dans l'<span class="hover" title="Chacune des cellules somatiques de notre corps contient un noyau, contenant 23 paires de chromosomes. Le chromosome est constitué de l'ADN, qui contient toute l'information génétique qui va régir la « machinerie » de notre corps.">ADN</span>.
 	Sur le bras court du chromosome 4 (représenté figure 1), est localisé le gène encodant une protéine appelée huntingtine (ou HTT), 
